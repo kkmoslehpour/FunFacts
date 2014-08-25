@@ -23,7 +23,10 @@ public class ColorWheel {
             "#637a91", // dark gray
             "#f092b0", // pink
             "#b7c0c7"  // light gray
+
+
             
+
     };
     public int getColor(){
 
