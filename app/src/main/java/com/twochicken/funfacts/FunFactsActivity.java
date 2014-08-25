@@ -47,7 +47,7 @@ public class FunFactsActivity extends Activity {
         };
         showFactButton.setOnClickListener(listener);
 
-        Toast.makeText(this, "Yay Our activity was created!", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Boo Our activity was created!", Toast.LENGTH_LONG).show();
 
     }
 }
